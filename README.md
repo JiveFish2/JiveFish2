@@ -19,5 +19,8 @@ Tools & Technologies: Tableau / Power BI | Git & GitHub | Docker | AWS / GCP (Ba
 Concepts: Machine Learning | Statistical Analysis | ETL | Data Modeling | Data Visualization | Storytelling with Data
 
 You might be wondering about the handle @jivefish2. Let's just say it's my primary key: it's unique, it's been with me forever, and changing it would break too many real-life foreign key relationships.
+
+![gTIKlB58-cat119B](https://github.com/user-attachments/assets/1d97801f-9b10-4069-950b-bec899b5911d)
+
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jivefish2&layout=compact&theme=github_dark) -->
